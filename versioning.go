@@ -10,5 +10,5 @@ func Hello() string {
 }
 
 func Goodbye() string {
-	return "Goodbye for now!"
+	return "Goodbye for nowaaa!"
 }
